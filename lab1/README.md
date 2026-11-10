@@ -36,4 +36,4 @@ mvn exec:java "-Dexec.mainClass=week_01.frm_Menu"
 ```
 
 ## 6. Báo cáo
-`Lab1_Lop11THMT_1150080021_NguyenHungVanKhanh.docx`
+`Lab11_Lop11THMT_1150080021_NguyenHungVanKhanh.docx`
