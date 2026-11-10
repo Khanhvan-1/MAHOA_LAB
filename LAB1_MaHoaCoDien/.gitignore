@@ -1,6 +1,0 @@
-**/target/
-**/.vscode/
-**/.env
-**/.env.*
-**/*.log
-**/node_modules/
